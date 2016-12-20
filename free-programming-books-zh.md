@@ -419,6 +419,7 @@
 * [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
 * [Revel 框架手册](http://gorevel.cn/docs/manual/index.html)
 * [学习Go语言](http://mikespook.com/learning-go/)
+* [神奇的 Go 语言](http://go.ctolib.com/docs/read/magical-go-c-index.html)
 
 
 ### Groovy
@@ -523,12 +524,14 @@
   * [koa 中文文档](https://github.com/guo-yu/koa-guide)
   * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
   * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+  * [Node.js Fullstack《從零到一的進撃》](https://github.com/jollen/nodejs-fullstack-lessons)
   * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
   * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
   * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
   * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
   * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
   * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+  * [JavaScript全栈工程师培训材料](http://nodejs.ctolib.com/docs/sfile/jstraining/engineering.html)
 * React.js
   * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
